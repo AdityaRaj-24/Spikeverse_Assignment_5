@@ -1,0 +1,7 @@
+1) Diehl, P. et al. (2015). Fast-classifying, high-accuracy spiking deep networks via weight and threshold balancing. arXiv:1509.07778
+
+2) SNN Simulator http://jackterwilliger.com/biological-neural-networks-part-i-spiking-neurons/
+
+3) Norse Library (PyTorch for SNNs): https://github.com/norse/norse
+
+4) MNIST Dataset: KAGGLE
